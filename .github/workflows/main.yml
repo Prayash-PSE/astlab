@@ -17,5 +17,5 @@ jobs:
           project_name: New_lab
           cx_tenant: ps_prayash_mishra
           base_uri: https://ind.ast.checkmarx.net/
-          cx_client_id: ${{ secrets.firstpipeline }}
-          cx_client_secret: ${{ secrets.O3h5ZLJy5HLVw5XVl5FrE2bQ78cvdGjf }}
+          cx_client_id: firstpipeline
+          cx_client_secret: O3h5ZLJy5HLVw5XVl5FrE2bQ78cvdGjf
